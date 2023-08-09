@@ -1,0 +1,15 @@
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\02.Equal_Sums_Even_Odd_Position\02.Equal_Sums_Even_Odd_Position\bin\Debug\net6.0\02.Equal_Sums_Even_Odd_Position.exe
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\02.Equal_Sums_Even_Odd_Position\02.Equal_Sums_Even_Odd_Position\bin\Debug\net6.0\02.Equal_Sums_Even_Odd_Position.deps.json
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\02.Equal_Sums_Even_Odd_Position\02.Equal_Sums_Even_Odd_Position\bin\Debug\net6.0\02.Equal_Sums_Even_Odd_Position.runtimeconfig.json
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\02.Equal_Sums_Even_Odd_Position\02.Equal_Sums_Even_Odd_Position\bin\Debug\net6.0\02.Equal_Sums_Even_Odd_Position.dll
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\02.Equal_Sums_Even_Odd_Position\02.Equal_Sums_Even_Odd_Position\bin\Debug\net6.0\02.Equal_Sums_Even_Odd_Position.pdb
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\02.Equal_Sums_Even_Odd_Position\02.Equal_Sums_Even_Odd_Position\obj\Debug\net6.0\02.Equal_Sums_Even_Odd_Position.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\02.Equal_Sums_Even_Odd_Position\02.Equal_Sums_Even_Odd_Position\obj\Debug\net6.0\02.Equal_Sums_Even_Odd_Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\02.Equal_Sums_Even_Odd_Position\02.Equal_Sums_Even_Odd_Position\obj\Debug\net6.0\02.Equal_Sums_Even_Odd_Position.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\02.Equal_Sums_Even_Odd_Position\02.Equal_Sums_Even_Odd_Position\obj\Debug\net6.0\02.Equal_Sums_Even_Odd_Position.AssemblyInfo.cs
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\02.Equal_Sums_Even_Odd_Position\02.Equal_Sums_Even_Odd_Position\obj\Debug\net6.0\02.Equal_Sums_Even_Odd_Position.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\02.Equal_Sums_Even_Odd_Position\02.Equal_Sums_Even_Odd_Position\obj\Debug\net6.0\02.Equal_Sums_Even_Odd_Position.dll
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\02.Equal_Sums_Even_Odd_Position\02.Equal_Sums_Even_Odd_Position\obj\Debug\net6.0\refint\02.Equal_Sums_Even_Odd_Position.dll
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\02.Equal_Sums_Even_Odd_Position\02.Equal_Sums_Even_Odd_Position\obj\Debug\net6.0\02.Equal_Sums_Even_Odd_Position.pdb
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\02.Equal_Sums_Even_Odd_Position\02.Equal_Sums_Even_Odd_Position\obj\Debug\net6.0\02.Equal_Sums_Even_Odd_Position.genruntimeconfig.cache
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\02.Equal_Sums_Even_Odd_Position\02.Equal_Sums_Even_Odd_Position\obj\Debug\net6.0\ref\02.Equal_Sums_Even_Odd_Position.dll
