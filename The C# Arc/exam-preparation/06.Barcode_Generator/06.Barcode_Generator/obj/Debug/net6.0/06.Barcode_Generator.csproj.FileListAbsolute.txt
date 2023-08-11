@@ -1,0 +1,15 @@
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\06.Barcode_Generator\06.Barcode_Generator\bin\Debug\net6.0\06.Barcode_Generator.exe
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\06.Barcode_Generator\06.Barcode_Generator\bin\Debug\net6.0\06.Barcode_Generator.deps.json
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\06.Barcode_Generator\06.Barcode_Generator\bin\Debug\net6.0\06.Barcode_Generator.runtimeconfig.json
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\06.Barcode_Generator\06.Barcode_Generator\bin\Debug\net6.0\06.Barcode_Generator.dll
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\06.Barcode_Generator\06.Barcode_Generator\bin\Debug\net6.0\06.Barcode_Generator.pdb
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\06.Barcode_Generator\06.Barcode_Generator\obj\Debug\net6.0\06.Barcode_Generator.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\06.Barcode_Generator\06.Barcode_Generator\obj\Debug\net6.0\06.Barcode_Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\06.Barcode_Generator\06.Barcode_Generator\obj\Debug\net6.0\06.Barcode_Generator.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\06.Barcode_Generator\06.Barcode_Generator\obj\Debug\net6.0\06.Barcode_Generator.AssemblyInfo.cs
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\06.Barcode_Generator\06.Barcode_Generator\obj\Debug\net6.0\06.Barcode_Generator.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\06.Barcode_Generator\06.Barcode_Generator\obj\Debug\net6.0\06.Barcode_Generator.dll
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\06.Barcode_Generator\06.Barcode_Generator\obj\Debug\net6.0\refint\06.Barcode_Generator.dll
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\06.Barcode_Generator\06.Barcode_Generator\obj\Debug\net6.0\06.Barcode_Generator.pdb
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\06.Barcode_Generator\06.Barcode_Generator\obj\Debug\net6.0\06.Barcode_Generator.genruntimeconfig.cache
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\06.Barcode_Generator\06.Barcode_Generator\obj\Debug\net6.0\ref\06.Barcode_Generator.dll
