@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YHZGfCKyQi9whYfukpOOWncS29dCSTqe03R2vA3WJ81GDcIOkZ+wCm4uy1GCX+zAbmmElVVUaCbky8N41aBobQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMD\\Desktop\\The C# Arc\\exam\\02.Football_Kit\\02.Football_Kit\\02.Football_Kit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

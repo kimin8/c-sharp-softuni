@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qW/DGK/uGMIFirm7HwLXZSkJQKcyabKo4yXsfPtkaXO2uxtRhzrPXZflYinjlKLxoouUj4lwy1SogtG0CcL/4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMD\\Desktop\\The C# Arc\\exam\\03.Excursion_Calculator\\03.Excursion_Calculator\\03.Excursion_Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

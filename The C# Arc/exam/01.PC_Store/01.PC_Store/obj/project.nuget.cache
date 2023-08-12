@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NNhOctM14g/sRAna6rs61p39yfDsId0TDetVWu+k/vcjDNWmSE6s3ARePrFrlb5xV0YRTisjjTSJZeDFByRqnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMD\\Desktop\\The C# Arc\\exam\\01.PC_Store\\01.PC_Store\\01.PC_Store.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
