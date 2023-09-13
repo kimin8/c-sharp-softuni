@@ -1,7 +1,0 @@
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\04.Fishing_Boat\bin\Debug\04.Fishing_Boat.exe.config
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\04.Fishing_Boat\bin\Debug\04.Fishing_Boat.exe
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\04.Fishing_Boat\bin\Debug\04.Fishing_Boat.pdb
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\04.Fishing_Boat\obj\Debug\04.Fishing_Boat.csproj.AssemblyReference.cache
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\04.Fishing_Boat\obj\Debug\04.Fishing_Boat.csproj.CoreCompileInputs.cache
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\04.Fishing_Boat\obj\Debug\04.Fishing_Boat.exe
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\04.Fishing_Boat\obj\Debug\04.Fishing_Boat.pdb

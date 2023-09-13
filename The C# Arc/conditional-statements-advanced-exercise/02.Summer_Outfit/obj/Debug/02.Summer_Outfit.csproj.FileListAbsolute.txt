@@ -1,7 +1,0 @@
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\02.Summer_Outfit\bin\Debug\02.Summer_Outfit.exe.config
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\02.Summer_Outfit\bin\Debug\02.Summer_Outfit.exe
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\02.Summer_Outfit\bin\Debug\02.Summer_Outfit.pdb
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\02.Summer_Outfit\obj\Debug\02.Summer_Outfit.csproj.AssemblyReference.cache
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\02.Summer_Outfit\obj\Debug\02.Summer_Outfit.csproj.CoreCompileInputs.cache
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\02.Summer_Outfit\obj\Debug\02.Summer_Outfit.exe
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\02.Summer_Outfit\obj\Debug\02.Summer_Outfit.pdb

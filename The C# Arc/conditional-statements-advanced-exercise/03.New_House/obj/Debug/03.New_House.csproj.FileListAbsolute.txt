@@ -1,7 +1,0 @@
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\03.New_House\bin\Debug\03.New_House.exe.config
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\03.New_House\bin\Debug\03.New_House.exe
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\03.New_House\bin\Debug\03.New_House.pdb
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\03.New_House\obj\Debug\03.New_House.csproj.AssemblyReference.cache
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\03.New_House\obj\Debug\03.New_House.csproj.CoreCompileInputs.cache
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\03.New_House\obj\Debug\03.New_House.exe
-C:\Users\AMD\Desktop\The C# Arc\conditional-statements-advanced-exercise\03.New_House\obj\Debug\03.New_House.pdb
