@@ -1,0 +1,15 @@
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\01.Oscars_ceremony\01.Oscars_ceremony\bin\Debug\net6.0\01.Oscars_ceremony.exe
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\01.Oscars_ceremony\01.Oscars_ceremony\bin\Debug\net6.0\01.Oscars_ceremony.deps.json
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\01.Oscars_ceremony\01.Oscars_ceremony\bin\Debug\net6.0\01.Oscars_ceremony.runtimeconfig.json
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\01.Oscars_ceremony\01.Oscars_ceremony\bin\Debug\net6.0\01.Oscars_ceremony.dll
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\01.Oscars_ceremony\01.Oscars_ceremony\bin\Debug\net6.0\01.Oscars_ceremony.pdb
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\01.Oscars_ceremony\01.Oscars_ceremony\obj\Debug\net6.0\01.Oscars_ceremony.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\01.Oscars_ceremony\01.Oscars_ceremony\obj\Debug\net6.0\01.Oscars_ceremony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\01.Oscars_ceremony\01.Oscars_ceremony\obj\Debug\net6.0\01.Oscars_ceremony.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\01.Oscars_ceremony\01.Oscars_ceremony\obj\Debug\net6.0\01.Oscars_ceremony.AssemblyInfo.cs
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\01.Oscars_ceremony\01.Oscars_ceremony\obj\Debug\net6.0\01.Oscars_ceremony.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\01.Oscars_ceremony\01.Oscars_ceremony\obj\Debug\net6.0\01.Oscars_ceremony.dll
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\01.Oscars_ceremony\01.Oscars_ceremony\obj\Debug\net6.0\refint\01.Oscars_ceremony.dll
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\01.Oscars_ceremony\01.Oscars_ceremony\obj\Debug\net6.0\01.Oscars_ceremony.pdb
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\01.Oscars_ceremony\01.Oscars_ceremony\obj\Debug\net6.0\01.Oscars_ceremony.genruntimeconfig.cache
+C:\Users\AMD\Desktop\The C# Arc\exam-preparation\01.Oscars_ceremony\01.Oscars_ceremony\obj\Debug\net6.0\ref\01.Oscars_ceremony.dll

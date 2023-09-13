@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Mountain_Run", "02.Mountain_Run\02.Mountain_Run.csproj", "{A1966E67-70F6-4792-93CB-902C5204184D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1966E67-70F6-4792-93CB-902C5204184D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1966E67-70F6-4792-93CB-902C5204184D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1966E67-70F6-4792-93CB-902C5204184D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1966E67-70F6-4792-93CB-902C5204184D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30350C79-D064-4937-A0C1-26649CD62729}
+	EndGlobalSection
+EndGlobal
