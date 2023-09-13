@@ -1,0 +1,15 @@
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\04.Train_The_Trainers\04.Train_The_Trainers\bin\Debug\net6.0\04.Train_The_Trainers.exe
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\04.Train_The_Trainers\04.Train_The_Trainers\bin\Debug\net6.0\04.Train_The_Trainers.deps.json
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\04.Train_The_Trainers\04.Train_The_Trainers\bin\Debug\net6.0\04.Train_The_Trainers.runtimeconfig.json
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\04.Train_The_Trainers\04.Train_The_Trainers\bin\Debug\net6.0\04.Train_The_Trainers.dll
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\04.Train_The_Trainers\04.Train_The_Trainers\bin\Debug\net6.0\04.Train_The_Trainers.pdb
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\04.Train_The_Trainers\04.Train_The_Trainers\obj\Debug\net6.0\04.Train_The_Trainers.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\04.Train_The_Trainers\04.Train_The_Trainers\obj\Debug\net6.0\04.Train_The_Trainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\04.Train_The_Trainers\04.Train_The_Trainers\obj\Debug\net6.0\04.Train_The_Trainers.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\04.Train_The_Trainers\04.Train_The_Trainers\obj\Debug\net6.0\04.Train_The_Trainers.AssemblyInfo.cs
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\04.Train_The_Trainers\04.Train_The_Trainers\obj\Debug\net6.0\04.Train_The_Trainers.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\04.Train_The_Trainers\04.Train_The_Trainers\obj\Debug\net6.0\04.Train_The_Trainers.dll
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\04.Train_The_Trainers\04.Train_The_Trainers\obj\Debug\net6.0\refint\04.Train_The_Trainers.dll
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\04.Train_The_Trainers\04.Train_The_Trainers\obj\Debug\net6.0\04.Train_The_Trainers.pdb
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\04.Train_The_Trainers\04.Train_The_Trainers\obj\Debug\net6.0\04.Train_The_Trainers.genruntimeconfig.cache
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\04.Train_The_Trainers\04.Train_The_Trainers\obj\Debug\net6.0\ref\04.Train_The_Trainers.dll

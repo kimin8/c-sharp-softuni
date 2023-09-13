@@ -1,0 +1,15 @@
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\06.Cinema_Tickets\06.Cinema_Tickets\bin\Debug\net6.0\06.Cinema_Tickets.exe
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\06.Cinema_Tickets\06.Cinema_Tickets\bin\Debug\net6.0\06.Cinema_Tickets.deps.json
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\06.Cinema_Tickets\06.Cinema_Tickets\bin\Debug\net6.0\06.Cinema_Tickets.runtimeconfig.json
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\06.Cinema_Tickets\06.Cinema_Tickets\bin\Debug\net6.0\06.Cinema_Tickets.dll
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\06.Cinema_Tickets\06.Cinema_Tickets\bin\Debug\net6.0\06.Cinema_Tickets.pdb
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\06.Cinema_Tickets\06.Cinema_Tickets\obj\Debug\net6.0\06.Cinema_Tickets.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\06.Cinema_Tickets\06.Cinema_Tickets\obj\Debug\net6.0\06.Cinema_Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\06.Cinema_Tickets\06.Cinema_Tickets\obj\Debug\net6.0\06.Cinema_Tickets.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\06.Cinema_Tickets\06.Cinema_Tickets\obj\Debug\net6.0\06.Cinema_Tickets.AssemblyInfo.cs
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\06.Cinema_Tickets\06.Cinema_Tickets\obj\Debug\net6.0\06.Cinema_Tickets.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\06.Cinema_Tickets\06.Cinema_Tickets\obj\Debug\net6.0\06.Cinema_Tickets.dll
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\06.Cinema_Tickets\06.Cinema_Tickets\obj\Debug\net6.0\refint\06.Cinema_Tickets.dll
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\06.Cinema_Tickets\06.Cinema_Tickets\obj\Debug\net6.0\06.Cinema_Tickets.pdb
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\06.Cinema_Tickets\06.Cinema_Tickets\obj\Debug\net6.0\06.Cinema_Tickets.genruntimeconfig.cache
+C:\Users\AMD\Desktop\The C# Arc\nested-loops-exercise\06.Cinema_Tickets\06.Cinema_Tickets\obj\Debug\net6.0\ref\06.Cinema_Tickets.dll
