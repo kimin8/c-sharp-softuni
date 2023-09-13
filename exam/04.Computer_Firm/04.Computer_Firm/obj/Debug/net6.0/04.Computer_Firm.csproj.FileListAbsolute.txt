@@ -1,0 +1,15 @@
+C:\Users\AMD\Desktop\The C# Arc\exam\04.Computer_Firm\04.Computer_Firm\bin\Debug\net6.0\04.Computer_Firm.exe
+C:\Users\AMD\Desktop\The C# Arc\exam\04.Computer_Firm\04.Computer_Firm\bin\Debug\net6.0\04.Computer_Firm.deps.json
+C:\Users\AMD\Desktop\The C# Arc\exam\04.Computer_Firm\04.Computer_Firm\bin\Debug\net6.0\04.Computer_Firm.runtimeconfig.json
+C:\Users\AMD\Desktop\The C# Arc\exam\04.Computer_Firm\04.Computer_Firm\bin\Debug\net6.0\04.Computer_Firm.dll
+C:\Users\AMD\Desktop\The C# Arc\exam\04.Computer_Firm\04.Computer_Firm\bin\Debug\net6.0\04.Computer_Firm.pdb
+C:\Users\AMD\Desktop\The C# Arc\exam\04.Computer_Firm\04.Computer_Firm\obj\Debug\net6.0\04.Computer_Firm.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\The C# Arc\exam\04.Computer_Firm\04.Computer_Firm\obj\Debug\net6.0\04.Computer_Firm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Desktop\The C# Arc\exam\04.Computer_Firm\04.Computer_Firm\obj\Debug\net6.0\04.Computer_Firm.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\The C# Arc\exam\04.Computer_Firm\04.Computer_Firm\obj\Debug\net6.0\04.Computer_Firm.AssemblyInfo.cs
+C:\Users\AMD\Desktop\The C# Arc\exam\04.Computer_Firm\04.Computer_Firm\obj\Debug\net6.0\04.Computer_Firm.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\The C# Arc\exam\04.Computer_Firm\04.Computer_Firm\obj\Debug\net6.0\04.Computer_Firm.dll
+C:\Users\AMD\Desktop\The C# Arc\exam\04.Computer_Firm\04.Computer_Firm\obj\Debug\net6.0\refint\04.Computer_Firm.dll
+C:\Users\AMD\Desktop\The C# Arc\exam\04.Computer_Firm\04.Computer_Firm\obj\Debug\net6.0\04.Computer_Firm.pdb
+C:\Users\AMD\Desktop\The C# Arc\exam\04.Computer_Firm\04.Computer_Firm\obj\Debug\net6.0\04.Computer_Firm.genruntimeconfig.cache
+C:\Users\AMD\Desktop\The C# Arc\exam\04.Computer_Firm\04.Computer_Firm\obj\Debug\net6.0\ref\04.Computer_Firm.dll
